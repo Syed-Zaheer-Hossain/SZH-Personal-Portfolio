@@ -1,3 +1,3 @@
-# CodSoft Task 2
-## Personal Portfolio
-This is a Personal Portfolio website made using HTML, CSS and JavaScript which is the 2nd task of CodSoft Web development internship.
+# Personal Portfolio
+This is my Personal Portfolio Website which list about all the projects achievements till date.
+You may have a look to know more about me.
